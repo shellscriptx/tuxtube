@@ -3,7 +3,7 @@
 #----------------------------------------------------------------------------------------------
 # Data:			25 de Outubro de 2016
 # Criado por:	SHAMAN
-# Página:		https://www.facebook.com/shellscriptx
+# Página:		http://shellscriptx.blogspot.com.br
 # Script:		tuxtube.sh
 # Descrição:	Script com interface (gtk/yad) utilizando o recurso dnd (arrasta e solta)
 #				para realizar download de vídeos no 'youtube' através do comando 'youtube-dl'
